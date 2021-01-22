@@ -1,6 +1,6 @@
-setwd("~/../Desktop/random_chord_generator/")
+#setwd("")
 
-###RANDOM CHORD GENERATOR v2###
+###RANDOM CHORD GENERATOR###
 
 chords<-read.csv("chordsv2.csv", sep = ",", skip = 0, 
                  header = TRUE, comment.char = "", check.names = FALSE,
